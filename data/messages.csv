@@ -1,0 +1,6 @@
+message,label
+"I need to update my credit card",Billing
+"My account is blocked",Account
+"How can I reset my password",Password
+"Payment failed",Billing
+"I want to cancel my subscription",Cancellation
